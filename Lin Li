@@ -1,1 +1,4 @@
 
+Conclusions and future work
+In this paper, an improved adaptive orthogonal basis method for computing multiple solutions of \eqref{20240110eq1.1} has been  proposed. Meanwhile, the effect of varying the domain on multiple solutions has been studied, improving the further understanding of these multiple solutions. In addition, some theoretical results on multiple solutions of some examples we consider have been thoroughly validated by the improved adaptive orthogonal basis method. 
+This not only illustrates the efficiency of our proposed algorithm, but also opens new avenues for integrating numerical computation into theoretical analysis.
